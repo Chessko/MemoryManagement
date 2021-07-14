@@ -15,13 +15,7 @@ private:
 
     //// STUDENT CODE
     ////
-
-    // TASK 1
-    // OLD 
-    // ChatLogic *_chatLogic;
-    // NEW
     std::unique_ptr<ChatLogic> _chatLogic;
-
     ////
     //// EOF STUDENT CODE
 
