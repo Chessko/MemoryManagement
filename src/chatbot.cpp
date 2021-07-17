@@ -30,9 +30,6 @@ ChatBot::ChatBot(std::string filename)
     _image = new wxBitmap(filename, wxBITMAP_TYPE_PNG);
 }
 
-//// STUDENT CODE
-////
-
 // Implementing the rule of five
 
 // 1: destructor
@@ -112,10 +109,6 @@ ChatBot &ChatBot::operator=(ChatBot&& source){
 
     return *this;
 }; 
-    
-
-////
-//// EOF STUDENT CODE
 
 void ChatBot::ReceiveMessageFromUser(std::string message)
 {
