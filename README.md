@@ -1,7 +1,7 @@
 # CPPND: Memory Management Chatbot
 
 ## Learnings
-This project had been part of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) I completed. I updated the code from an old, inefficient coding style to a efficient, modern C++ one. In this Memory Management project I learnt about and gain practical experience in:
+This project had been part of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) I completed. I updated the code from an old, inefficient coding style to a efficient, modern C++ one. In this Memory Management project I learnt about and gained practical experience in:
 * efficient Memory Allocation
 * The Rule of Five (https://en.cppreference.com/w/cpp/language/rule_of_three)
 * Smart pointers (https://en.cppreference.com/book/intro/smart_pointers)
